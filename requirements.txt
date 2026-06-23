@@ -1,0 +1,2 @@
+# Hipo Ai 5.1 Pro tidak butuh dependency eksternal.
+# Semua memakai Python standard library agar ringan di Termux.

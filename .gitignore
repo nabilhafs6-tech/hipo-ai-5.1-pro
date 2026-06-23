@@ -1,0 +1,4 @@
+.env
+*.log
+__pycache__/
+.hipo_ai_5_1_pro/
